@@ -1,4 +1,4 @@
-# Datamine Studio/Python ⬅️ Datamine Studio/JS
+# Using Datamine Studio With Python
 
 The **Datamine Scripting** feature has been widely used in the mining industry for decades. Traditionally, it integrates Datamine Studio with JavaScript (JS) through **Microsoft’s Component Object Model (COM)**, a technology supported on Windows OS.
 
